@@ -2,10 +2,6 @@
 
 
 # REACTJS
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
-
 ## Introduction
 The COVID-19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The novel virus was first identified from an outbreak in Wuhan, China, in December 2019. Attempts to contain it there failed, allowing the virus to spread worldwide. The World Health Organization (WHO) declared a Public Health Emergency of International Concern on 30 January 2020 and a pandemic on 11 March 2020. As of 18 April 2022, the pandemic had caused more than 504 million cases and 6.19 million deaths, making it one of the deadliest in history.
 
