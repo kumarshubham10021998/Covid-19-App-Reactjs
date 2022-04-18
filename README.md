@@ -1,19 +1,18 @@
 # COVID-19 Tracker
 
 
-
+# REACTJS
 
 ## Stay up to date with new projects
 New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+The COVID-19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The novel virus was first identified from an outbreak in Wuhan, China, in December 2019. Attempts to contain it there failed, allowing the virus to spread worldwide. The World Health Organization (WHO) declared a Public Health Emergency of International Concern on 30 January 2020 and a pandemic on 11 March 2020. As of 18 April 2022, the pandemic had caused more than 504 million cases and 6.19 million deaths, making it one of the deadliest in history.
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+COVID-19 symptoms range from undetectable to deadly, but most commonly include fever, dry cough, and fatigue. Severe illness is more likely in elderly patients and those with certain underlying medical conditions. COVID‑19 transmits when people breathe in air contaminated by droplets and small airborne particles containing the virus. The risk of breathing these in is highest when people are in close proximity, but they can be inhaled over longer distances, particularly indoors. Transmission can also occur if contaminated fluids reach the eyes, nose or mouth, and, rarely, via contaminated surfaces. Infected persons are typically contagious for 10 days, and can spread the virus even if they do not develop symptoms. Mutations have produced many strains (variants) with varying degrees of infectivity and virulence.[5][6]
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+COVID-19 vaccines have been approved and widely distributed in various countries since December 2020. Other recommended preventive measures include social distancing, masking, improving ventilation and air filtration, and quarantining those who have been exposed or are symptomatic. Treatments include monoclonal antibodies,[7] novel antiviral drugs, and symptom control. Governmental interventions include travel restrictions, lockdowns, business restrictions and closures, workplace hazard controls, quarantines, testing systems, and tracing contacts of the infected.
 
-API used: https://covid19.mathdro.id/api
-
+The pandemic triggered severe social and economic disruption around the world, including the largest global recession since the Great Depression.[8] Widespread supply shortages, including food shortages, were caused by supply chain disruption and panic buying. The resultant near-global lockdowns saw an unprecedented pollution decrease. Educational institutions and public areas were partially or fully closed in many jurisdictions, and many events were cancelled or postponed. Misinformation circulated through social media and mass media and political tensions intensified. The pandemic raised issues of racial and geographic discrimination, health equity, and the balance between public health imperatives and individual rights.
 Setup:
 - run ```npm i && npm start```
